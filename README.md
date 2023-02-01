@@ -1,3 +1,3 @@
-# Landing page using React + Tailwind, hosted on Firebase
+# Landing page using React, Tailwind, Firebase
 
 ### Link: <https://vikki-lt.web.app/>
