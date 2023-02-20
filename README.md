@@ -1,3 +1,3 @@
-# Landing page using React, Tailwind, Firebase
+simple landing page using React, Tailwind, Firebase
 
-### Link: <https://vikki-lt.web.app/>
+link: https://vikki-lt.web.app/
